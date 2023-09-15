@@ -2,7 +2,7 @@
 
 [HTMap](https://github.com/emiliofidalgo/htmap) requires 2 consecutive images from the left and right camera to be combined horizontally for NewCollege and CityCentre datasets.
 
-This repo contains code to generate new images, their coordinates, and ground truth loops file.
+This repo contains code to generate new images, their coordinates, and ground truth loops file from the original [New College and City Centre](https://www.robots.ox.ac.uk/~mobile/IJRR_2008_Dataset/data.html) datasets.
 
 ## GT Loops format
 
